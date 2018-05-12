@@ -1,0 +1,33 @@
+_repo: Second-Edition-of-A-Discovery-Concerning-GhostsWith-a-Rap-at-the--Spirit-Rappers-_36512
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+description: ''
+gutenberg_issued: '2011-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36512'
+  lccn: '11007074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Table-moving (Spiritualism)'
+- !lcsh 'Ghosts'
+title: 'Second Edition of A Discovery Concerning Ghosts
+
+  With a Rap at the "Spirit-Rappers"'
+url: http://www.gutenberg.org/ebooks/36512
